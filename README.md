@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lenni Bauer @lebauerle
-- 🌱 I’m currently learning React
-
-
+- :pushpin: Berlin
+- :computer: I’m currently learning React
+- 🌱 Team Treehouse Tech Degree
  
